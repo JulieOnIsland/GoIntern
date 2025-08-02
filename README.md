@@ -2,7 +2,12 @@
 
 GoIntern is a Swift-based iOS app designed to help students and job seekers seamlessly **track internship applications** and **generate customized LinkedIn messages** all in one place.
 
-## 📱 Screenshots
+## 🚀 Getting Started
+To use this project, make sure you have Xcode installed on your machine.
+
+Then, open the RequestBuilder.swift file and replace the apiKey value with your own OpenAI API key
+
+## 📱 App Preview
 
 ### 🔹 Home Dashboard
 <img src="screenshots/home.png" alt="Home Screen" width="250"/>
@@ -16,7 +21,7 @@ GoIntern is a Swift-based iOS app designed to help students and job seekers seam
 ### 🔹 Widget
 <img src="screenshots/widget.png" alt="Widget" width="250"/>
 
-## ✨ Features
+## ✨ Explore the Features
 
 - ✅ **Internship Application Management**  
   Add and manage applications, track resume and interview status, and visualize progress with interactive **pie charts**
@@ -37,4 +42,5 @@ GoIntern is a Swift-based iOS app designed to help students and job seekers seam
 
 ## 🎬 Demo
 https://youtu.be/p8p4fCsPMaw 
+
 
